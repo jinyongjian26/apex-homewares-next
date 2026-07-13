@@ -1,0 +1,2 @@
+import Link from 'next/link'; import {Product} from '@/data/products';
+export function ProductCard({product}: {product:Product}){return <article className="product-card"><img src={product.image} alt={product.name}/><div><p className="eyebrow">{product.category}</p><h3>{product.name}</h3><p>{product.description}</p><div className="meta"><span>MOQ: {product.moq}</span><span>{product.price}</span></div><Link href={`/products/${product.slug}`}>View specifications →</Link></div></article>}
