@@ -1,3 +1,35 @@
 import {products} from '@/data/products';
-export const metadata={title:'Product Management | Apex Homewares'};
-export default function Admin(){return <section className="section admin"><p className="eyebrow">Static product management</p><h1>Manage the catalogue through one file.</h1><p>This is a lightweight static management reference, not a login system. Edit <code>src/data/products.ts</code>, save, then deploy your update. No database, server, or account is required.</p><div className="admin-note"><strong>Add a product:</strong> duplicate an object in <code>products.ts</code>, assign a unique <code>slug</code>, then update its image URL, title, MOQ, price and specifications. Rebuild and deploy for the change to go live.</div><div className="admin-table"><div className="admin-row admin-label"><span>Product</span><span>Category</span><span>MOQ</span><span>File key</span></div>{products.map(p=><div className="admin-row" key={p.slug}><span>{p.name}</span><span>{p.category}</span><span>{p.moq}</span><code>{p.slug}</code></div>)}</div></section>}
+
+export const metadata={title:'Personal Care Product Management | Ningbo Shanwu'};
+
+export default function Admin(){
+  const personalCareProducts=products.filter(product=>product.category==='Personal Care');
+
+  return (
+    <section className="section admin">
+      <p className="eyebrow">Static product management</p>
+      <h1>Personal Care catalogue</h1>
+      <p>
+        {personalCareProducts.length} multilingual personal-care products are currently published.
+        The catalogue is stored in <code>src/data/personal-care-products.ts</code> and requires no database or server.
+      </p>
+      <div className="admin-note">
+        <strong>Batch import complete:</strong> product titles, specifications and descriptions are available in
+        English, Spanish and Arabic. Save and deploy the generated data file to update this category.
+      </div>
+      <div className="admin-table">
+        <div className="admin-row admin-label">
+          <span>Product</span><span>Category</span><span>MOQ</span><span>File key</span>
+        </div>
+        {personalCareProducts.map(product=>(
+          <div className="admin-row" key={product.slug}>
+            <span>{product.name}</span>
+            <span>{product.category}</span>
+            <span>{product.moq}</span>
+            <code>{product.slug}</code>
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+}
