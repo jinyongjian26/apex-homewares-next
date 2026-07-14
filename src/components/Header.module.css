@@ -1,0 +1,19 @@
+.brandLogo {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  width: clamp(150px, 18vw, 205px);
+  text-decoration: none;
+}
+
+.brandLogo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 420px) {
+  .brandLogo {
+    width: 145px;
+  }
+}
