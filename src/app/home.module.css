@@ -4,6 +4,88 @@
   gap: 18px;
 }
 
+.heroSlider {
+  position: relative;
+  min-height: 620px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  color: white;
+  background: #0b202b;
+}
+
+.heroSlide {
+  position: absolute;
+  inset: 0;
+  background-position: center;
+  background-size: cover;
+  opacity: 0;
+  transform: scale(1.025);
+  transition: opacity 900ms ease, transform 6s ease;
+}
+
+.heroSlideActive {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.heroContent {
+  position: relative;
+  z-index: 2;
+  width: min(1160px, calc(100% - 40px));
+  margin: auto;
+}
+
+.heroContent h1 {
+  max-width: 740px;
+  margin-bottom: 17px;
+}
+
+.heroContent p:not(:first-child) {
+  max-width: 550px;
+  font-size: 1.1rem;
+  margin-bottom: 28px;
+}
+
+.heroControls {
+  position: absolute;
+  z-index: 3;
+  left: 50%;
+  bottom: 26px;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.heroControls button {
+  border: 1px solid rgba(255,255,255,.65);
+  background: rgba(7,25,37,.45);
+  color: white;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.heroDots {
+  display: flex;
+  gap: 8px;
+}
+
+.heroDots button {
+  width: 9px;
+  height: 9px;
+  padding: 0;
+  border: 0;
+  background: rgba(255,255,255,.5);
+}
+
+.heroDots .heroDotActive {
+  background: #fff;
+  transform: scale(1.35);
+}
+
 @media (max-width: 980px) {
   .featuredGrid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -11,6 +93,22 @@
 }
 
 @media (max-width: 560px) {
+  .heroSlider {
+    min-height: 560px;
+  }
+
+  .heroSlide {
+    background-position: 64% center;
+  }
+
+  .heroContent {
+    padding-bottom: 48px;
+  }
+
+  .heroContent h1 {
+    max-width: 92%;
+  }
+
   .featuredGrid {
     grid-template-columns: 1fr;
   }
