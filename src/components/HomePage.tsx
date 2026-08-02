@@ -58,7 +58,7 @@ export function HomePage(){
         <div><p className="eyebrow">{t('home.hotEyebrow')}</p><h2>{t('home.hotTitle')}</h2></div>
         <Link href="/products/">{t('home.viewAll')} →</Link>
       </div>
-      <div className="product-grid">{featuredProducts.map(product=><ProductCard key={product.slug} product={product}/>)}</div>
+      <div className={`product-grid ${styles.featuredGrid}`}>{featuredProducts.map(product=><ProductCard key={product.slug} product={product}/>)}</div>
     </section>
 
     <section className={styles.factory} id="factory">
