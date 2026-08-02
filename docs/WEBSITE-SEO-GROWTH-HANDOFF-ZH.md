@@ -2,7 +2,9 @@
 
 更新日期：2026-08-02  
 网站身份：**China Professional Home Appliance Factory & Wholesale Supplier**  
-当前网站地址：<https://apex-homewares-next.vercel.app/>
+正式网站地址：<https://www.ningboshanwu.com/>
+
+Vercel 备用地址：<https://apex-homewares-next.vercel.app/>
 
 > 本文档是代码交付、页面文案和站外获客工作的统一执行底稿。SEO 能提高抓取、理解和曝光机会，但任何服务商都不能保证具体关键词排名或询盘数量。
 
@@ -155,7 +157,7 @@ Tell us the model, target market, estimated quantity and custom requirements. Ou
 Send Wholesale Inquiry
 ```
 
-表单通过 FormSubmit 将内容发送至 `jinyongjian26@gmail.com`。首次真实提交后，需要登录该邮箱点击一次激活确认邮件；未激活前不能保证后续询盘送达。正式使用建议配置企业域名邮箱，并在 `src/data/site.ts` 中统一替换。
+表单通过 FormSubmit 将内容发送至 `sales@ningboshanwu.com`。首次真实提交后，需要登录该邮箱点击一次激活确认邮件；未激活前不能保证后续询盘送达。
 
 ## 六、About Us 对外英文介绍
 
@@ -206,7 +208,7 @@ export default function robots():MetadataRoute.Robots{
 }
 ```
 
-线上地址：`https://apex-homewares-next.vercel.app/robots.txt`
+线上地址：`https://www.ningboshanwu.com/robots.txt`
 
 ## 九、sitemap 标准格式
 
@@ -230,7 +232,7 @@ export default function robots():MetadataRoute.Robots{
 </urlset>
 ```
 
-线上提交地址：`https://apex-homewares-next.vercel.app/sitemap.xml`
+线上提交地址：`https://www.ningboshanwu.com/sitemap.xml`
 
 绑定自有域名后，必须先修改 `src/data/site.ts` 的 `baseUrl`，重新部署，再向 GSC 提交新域名的 sitemap。
 
