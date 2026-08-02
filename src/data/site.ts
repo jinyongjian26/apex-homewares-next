@@ -8,7 +8,7 @@ export const site = {
   whatsapp: '8615372621381',
   address: 'Ningbo Alibaba Center, No. 36 Yongshuiqiao Road, Haishu District, Ningbo, Zhejiang, China',
   baseUrl: 'https://www.ningboshanwu.com',
-  markets: ['Middle East', 'Southeast Asia'],
+  markets: ['Europe', 'North America', 'Middle East'],
   businessModel: 'Make-to-order manufacturing, OEM, private label and custom packaging for B2B buyers.',
 } as const;
 

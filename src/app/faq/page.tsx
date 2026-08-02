@@ -11,7 +11,7 @@ const faqs=[
   ['Can you make products for 110V or 220–240V markets?','Market-specific voltage, frequency and plug options depend on the selected model. These details must be confirmed in writing before sampling or production.'],
   ['How do you control product quality?','The order workflow can include incoming inspection, key-stage production checks, electrical and functional testing, appearance checks and packing verification based on the approved specification.'],
   ['Which payment methods and trade terms are available?','Payment schedule, bank information and Incoterms are stated in the proforma invoice. T/T is commonly discussed for B2B orders; final terms depend on the transaction.'],
-  ['Can you ship to the Middle East and Southeast Asia?','Yes, we can prepare export packing and coordinate shipment information for these markets. Freight method and cost depend on the destination, volume and agreed Incoterm.'],
+  ['Can you ship to Europe, North America and the Middle East?','Yes, we can prepare export packing and coordinate shipment information for these markets. Freight method and cost depend on the destination, volume and agreed Incoterm. Product compliance requirements must be confirmed for the destination country before ordering.'],
   ['Do you keep ready stock?','Our main model is make-to-order B2B production. Any sample or limited stock availability must be checked at the time of enquiry.'],
 ];
 

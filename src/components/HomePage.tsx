@@ -86,7 +86,7 @@ export function HomePage(){
 
     <section className={styles.markets}>
       <div><p className="eyebrow light">{t('home.marketEyebrow')}</p><h2>{t('home.marketTitle')}</h2><p>{t('home.marketCopy')}</p></div>
-      <div className={styles.marketCards}><article><span>ME</span><h3>{t('home.marketMiddleEast')}</h3><p>Importers · wholesalers · retail chains · traders</p></article><article><span>SEA</span><h3>{t('home.marketSea')}</h3><p>Distributors · stores · cross-border sellers · sourcing teams</p></article></div>
+      <div className={styles.marketCards}><article><span>EU / NA</span><h3>{t('home.marketWest')}</h3><p>Importers · wholesalers · retail chains · private-label buyers</p></article><article><span>ME</span><h3>{t('home.marketMiddleEast')}</h3><p>Distributors · stores · traders · cross-border sellers</p></article></div>
     </section>
 
     <section className="section" id="faq">

@@ -20,7 +20,7 @@ Vercel 备用地址：<https://apex-homewares-next.vercel.app/>
 - 热销产品：6 个卡片，统一显示 Wholesale、Private Label、Low MOQ Options。
 - 工厂流程：需求确认、生产控制、功能测试、出口包装。
 - 定制服务：Logo、彩盒、功能调整、外箱设计。
-- 客户与市场：中东、东南亚；批发商、实体店、贸易商、跨境卖家。
+- 客户与市场：欧洲、北美、中东；批发商、实体店、贸易商、跨境卖家。
 - FAQ：MOQ、Logo、交期、样品、认证、运费付款。
 - 结尾 CTA：表单和 WhatsApp 双入口。
 
