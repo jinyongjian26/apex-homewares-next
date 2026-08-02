@@ -7295,7 +7295,7 @@ export const personalCareProducts: Product[] = [
   },
   {
     "slug": "hs-226",
-    "name": "100-240V 50/60Hz 30W HS-226",
+    "name": "Professional Hair Straightener HS-226",
     "category": "Personal Care",
     "image": "/personal-care/hs-226.webp",
     "description": "100-240V 50/60Hz 30W model HS-226, designed for personal-care retail, distributor and OEM programs.",
@@ -7333,7 +7333,7 @@ export const personalCareProducts: Product[] = [
     ],
     "translations": {
       "es": {
-        "name": "100-240V 50/60Hz 30W HS-226",
+        "name": "Plancha de cabello profesional HS-226",
         "description": "100-240V 50/60Hz 30W modelo HS-226, diseñado para programas minoristas, distribuidores y OEM de cuidado personal.",
         "specs": [
           {
@@ -7367,7 +7367,7 @@ export const personalCareProducts: Product[] = [
         ]
       },
       "ar": {
-        "name": "100-240V 50/60Hz 30W HS-226",
+        "name": "مملس شعر احترافي HS-226",
         "description": "100-240V 50/60Hz 30W موديل HS-226، مصمم لبرامج التجزئة والموزعين وتصنيع OEM في فئة العناية الشخصية.",
         "specs": [
           {
@@ -7404,7 +7404,7 @@ export const personalCareProducts: Product[] = [
   },
   {
     "slug": "hs-231",
-    "name": "100-240V 50/60Hz 45-52W HS-231",
+    "name": "Professional Hair Straightener HS-231",
     "category": "Personal Care",
     "image": "/personal-care/hs-231.webp",
     "description": "100-240V 50/60Hz 45-52W model HS-231, designed for personal-care retail, distributor and OEM programs.",
@@ -7438,7 +7438,7 @@ export const personalCareProducts: Product[] = [
     ],
     "translations": {
       "es": {
-        "name": "100-240V 50/60Hz 45-52W HS-231",
+        "name": "Plancha de cabello profesional HS-231",
         "description": "100-240V 50/60Hz 45-52W modelo HS-231, diseñado para programas minoristas, distribuidores y OEM de cuidado personal.",
         "specs": [
           {
@@ -7468,7 +7468,7 @@ export const personalCareProducts: Product[] = [
         ]
       },
       "ar": {
-        "name": "100-240V 50/60Hz 45-52W HS-231",
+        "name": "مملس شعر احترافي HS-231",
         "description": "100-240V 50/60Hz 45-52W موديل HS-231، مصمم لبرامج التجزئة والموزعين وتصنيع OEM في فئة العناية الشخصية.",
         "specs": [
           {
@@ -7501,7 +7501,7 @@ export const personalCareProducts: Product[] = [
   },
   {
     "slug": "hs-232",
-    "name": "100-240V 50/60Hz 50-60W HS-232",
+    "name": "Professional Hair Straightener HS-232",
     "category": "Personal Care",
     "image": "/personal-care/hs-232.webp",
     "description": "100-240V 50/60Hz 50-60W model HS-232, designed for personal-care retail, distributor and OEM programs.",
@@ -7551,7 +7551,7 @@ export const personalCareProducts: Product[] = [
     ],
     "translations": {
       "es": {
-        "name": "100-240V 50/60Hz 50-60W HS-232",
+        "name": "Plancha de cabello profesional HS-232",
         "description": "100-240V 50/60Hz 50-60W modelo HS-232, diseñado para programas minoristas, distribuidores y OEM de cuidado personal.",
         "specs": [
           {
@@ -7597,7 +7597,7 @@ export const personalCareProducts: Product[] = [
         ]
       },
       "ar": {
-        "name": "100-240V 50/60Hz 50-60W HS-232",
+        "name": "مملس شعر احترافي HS-232",
         "description": "100-240V 50/60Hz 50-60W موديل HS-232، مصمم لبرامج التجزئة والموزعين وتصنيع OEM في فئة العناية الشخصية.",
         "specs": [
           {
@@ -7646,7 +7646,7 @@ export const personalCareProducts: Product[] = [
   },
   {
     "slug": "hs-229",
-    "name": "100-240V 50/60Hz 45-52W HS-229",
+    "name": "Professional Hair Straightener HS-229",
     "category": "Personal Care",
     "image": "/personal-care/hs-229.webp",
     "description": "100-240V 50/60Hz 45-52W model HS-229, designed for personal-care retail, distributor and OEM programs.",
@@ -7688,7 +7688,7 @@ export const personalCareProducts: Product[] = [
     ],
     "translations": {
       "es": {
-        "name": "100-240V 50/60Hz 45-52W HS-229",
+        "name": "Plancha de cabello profesional HS-229",
         "description": "100-240V 50/60Hz 45-52W modelo HS-229, diseñado para programas minoristas, distribuidores y OEM de cuidado personal.",
         "specs": [
           {
@@ -7726,7 +7726,7 @@ export const personalCareProducts: Product[] = [
         ]
       },
       "ar": {
-        "name": "100-240V 50/60Hz 45-52W HS-229",
+        "name": "مملس شعر احترافي HS-229",
         "description": "100-240V 50/60Hz 45-52W موديل HS-229، مصمم لبرامج التجزئة والموزعين وتصنيع OEM في فئة العناية الشخصية.",
         "specs": [
           {
@@ -7924,7 +7924,7 @@ export const personalCareProducts: Product[] = [
   },
   {
     "slug": "hs-228",
-    "name": "100-240V 50/60Hz 35W HS-228",
+    "name": "Professional Hair Straightener HS-228",
     "category": "Personal Care",
     "image": "/personal-care/hs-228.webp",
     "description": "100-240V 50/60Hz 35W model HS-228, designed for personal-care retail, distributor and OEM programs.",
@@ -7954,7 +7954,7 @@ export const personalCareProducts: Product[] = [
     ],
     "translations": {
       "es": {
-        "name": "100-240V 50/60Hz 35W HS-228",
+        "name": "Plancha de cabello profesional HS-228",
         "description": "100-240V 50/60Hz 35W modelo HS-228, diseñado para programas minoristas, distribuidores y OEM de cuidado personal.",
         "specs": [
           {
@@ -7980,7 +7980,7 @@ export const personalCareProducts: Product[] = [
         ]
       },
       "ar": {
-        "name": "100-240V 50/60Hz 35W HS-228",
+        "name": "مملس شعر احترافي HS-228",
         "description": "100-240V 50/60Hz 35W موديل HS-228، مصمم لبرامج التجزئة والموزعين وتصنيع OEM في فئة العناية الشخصية.",
         "specs": [
           {
@@ -8106,7 +8106,7 @@ export const personalCareProducts: Product[] = [
   },
   {
     "slug": "hs-223",
-    "name": "100-240V 50/60Hz 45W HS-223",
+    "name": "Professional Hair Straightener HS-223",
     "category": "Personal Care",
     "image": "/personal-care/hs-223.webp",
     "description": "100-240V 50/60Hz 45W model HS-223, designed for personal-care retail, distributor and OEM programs.",
@@ -8156,7 +8156,7 @@ export const personalCareProducts: Product[] = [
     ],
     "translations": {
       "es": {
-        "name": "100-240V 50/60Hz 45W HS-223",
+        "name": "Plancha de cabello profesional HS-223",
         "description": "100-240V 50/60Hz 45W modelo HS-223, diseñado para programas minoristas, distribuidores y OEM de cuidado personal.",
         "specs": [
           {
@@ -8202,7 +8202,7 @@ export const personalCareProducts: Product[] = [
         ]
       },
       "ar": {
-        "name": "100-240V 50/60Hz 45W HS-223",
+        "name": "مملس شعر احترافي HS-223",
         "description": "100-240V 50/60Hz 45W موديل HS-223، مصمم لبرامج التجزئة والموزعين وتصنيع OEM في فئة العناية الشخصية.",
         "specs": [
           {
@@ -8251,7 +8251,7 @@ export const personalCareProducts: Product[] = [
   },
   {
     "slug": "hs-221",
-    "name": "100-240V 50/60Hz 45W HS-221",
+    "name": "Professional Hair Straightener HS-221",
     "category": "Personal Care",
     "image": "/personal-care/hs-221.webp",
     "description": "100-240V 50/60Hz 45W model HS-221, designed for personal-care retail, distributor and OEM programs.",
@@ -8293,7 +8293,7 @@ export const personalCareProducts: Product[] = [
     ],
     "translations": {
       "es": {
-        "name": "100-240V 50/60Hz 45W HS-221",
+        "name": "Plancha de cabello profesional HS-221",
         "description": "100-240V 50/60Hz 45W modelo HS-221, diseñado para programas minoristas, distribuidores y OEM de cuidado personal.",
         "specs": [
           {
@@ -8331,7 +8331,7 @@ export const personalCareProducts: Product[] = [
         ]
       },
       "ar": {
-        "name": "100-240V 50/60Hz 45W HS-221",
+        "name": "مملس شعر احترافي HS-221",
         "description": "100-240V 50/60Hz 45W موديل HS-221، مصمم لبرامج التجزئة والموزعين وتصنيع OEM في فئة العناية الشخصية.",
         "specs": [
           {
@@ -8372,7 +8372,7 @@ export const personalCareProducts: Product[] = [
   },
   {
     "slug": "hs-218",
-    "name": "100-240V 50/60Hz 25W HS-218",
+    "name": "Professional Hair Straightener HS-218",
     "category": "Personal Care",
     "image": "/personal-care/hs-218.webp",
     "description": "100-240V 50/60Hz 25W model HS-218, designed for personal-care retail, distributor and OEM programs.",
@@ -8406,7 +8406,7 @@ export const personalCareProducts: Product[] = [
     ],
     "translations": {
       "es": {
-        "name": "100-240V 50/60Hz 25W HS-218",
+        "name": "Plancha de cabello profesional HS-218",
         "description": "100-240V 50/60Hz 25W modelo HS-218, diseñado para programas minoristas, distribuidores y OEM de cuidado personal.",
         "specs": [
           {
@@ -8436,7 +8436,7 @@ export const personalCareProducts: Product[] = [
         ]
       },
       "ar": {
-        "name": "100-240V 50/60Hz 25W HS-218",
+        "name": "مملس شعر احترافي HS-218",
         "description": "100-240V 50/60Hz 25W موديل HS-218، مصمم لبرامج التجزئة والموزعين وتصنيع OEM في فئة العناية الشخصية.",
         "specs": [
           {
@@ -8530,7 +8530,7 @@ export const personalCareProducts: Product[] = [
   },
   {
     "slug": "hs-219",
-    "name": "100-240V 50/60Hz 35W HS-219",
+    "name": "Professional Hair Straightener HS-219",
     "category": "Personal Care",
     "image": "/personal-care/hs-219.webp",
     "description": "100-240V 50/60Hz 35W model HS-219, designed for personal-care retail, distributor and OEM programs.",
@@ -8568,7 +8568,7 @@ export const personalCareProducts: Product[] = [
     ],
     "translations": {
       "es": {
-        "name": "100-240V 50/60Hz 35W HS-219",
+        "name": "Plancha de cabello profesional HS-219",
         "description": "100-240V 50/60Hz 35W modelo HS-219, diseñado para programas minoristas, distribuidores y OEM de cuidado personal.",
         "specs": [
           {
@@ -8602,7 +8602,7 @@ export const personalCareProducts: Product[] = [
         ]
       },
       "ar": {
-        "name": "100-240V 50/60Hz 35W HS-219",
+        "name": "مملس شعر احترافي HS-219",
         "description": "100-240V 50/60Hz 35W موديل HS-219، مصمم لبرامج التجزئة والموزعين وتصنيع OEM في فئة العناية الشخصية.",
         "specs": [
           {
@@ -8639,7 +8639,7 @@ export const personalCareProducts: Product[] = [
   },
   {
     "slug": "hs-220",
-    "name": "100-240V 50/60Hz 25W HS-220",
+    "name": "Professional Hair Straightener HS-220",
     "category": "Personal Care",
     "image": "/personal-care/hs-220.webp",
     "description": "100-240V 50/60Hz 25W model HS-220, designed for personal-care retail, distributor and OEM programs.",
@@ -8665,7 +8665,7 @@ export const personalCareProducts: Product[] = [
     ],
     "translations": {
       "es": {
-        "name": "100-240V 50/60Hz 25W HS-220",
+        "name": "Plancha de cabello profesional HS-220",
         "description": "100-240V 50/60Hz 25W modelo HS-220, diseñado para programas minoristas, distribuidores y OEM de cuidado personal.",
         "specs": [
           {
@@ -8687,7 +8687,7 @@ export const personalCareProducts: Product[] = [
         ]
       },
       "ar": {
-        "name": "100-240V 50/60Hz 25W HS-220",
+        "name": "مملس شعر احترافي HS-220",
         "description": "100-240V 50/60Hz 25W موديل HS-220، مصمم لبرامج التجزئة والموزعين وتصنيع OEM في فئة العناية الشخصية.",
         "specs": [
           {

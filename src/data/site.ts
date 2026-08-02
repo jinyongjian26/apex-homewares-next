@@ -1,8 +1,18 @@
-// BUSINESS DETAILS — replace these four values before launch.
+// VERIFIED BUSINESS DETAILS — keep this file as the single source of truth.
 export const site = {
-  name: 'Ningbo Shanwu Technology Co., Ltd.', // ← Company name
-  email: 'jinyongjian26@gmail.com', // ← Business email
-  whatsapp: '8615372621381', // ← Country code + number, numbers only
-  address: 'Ningbo Alibaba Center, No. 36 Yongshuiqiao Road, Haishu District, Ningbo, Zhejiang, China' // ← Office address
-};
+  name: 'Ningbo Shanwu Technology Co., Ltd.',
+  chineseName: '宁波山雾科技有限公司',
+  shortName: 'SHANWU',
+  identity: 'China Professional Home Appliance Factory & Wholesale Supplier',
+  email: 'jinyongjian26@gmail.com',
+  whatsapp: '8615372621381',
+  address: 'Ningbo Alibaba Center, No. 36 Yongshuiqiao Road, Haishu District, Ningbo, Zhejiang, China',
+  baseUrl: 'https://apex-homewares-next.vercel.app',
+  markets: ['Middle East', 'Southeast Asia'],
+  businessModel: 'Make-to-order manufacturing, OEM, private label and custom packaging for B2B buyers.',
+} as const;
+
 export const whatsappUrl = `https://wa.me/${site.whatsapp}`;
+export const quoteWhatsappUrl = `${whatsappUrl}?text=${encodeURIComponent(
+  'Hello SHANWU, I would like a wholesale quotation for home appliances.',
+)}`;

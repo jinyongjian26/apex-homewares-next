@@ -1,5 +1,10 @@
-'use client';
-import {site,whatsappUrl} from '@/data/site';
-import {useLanguage} from '@/components/LanguageProvider';
+import type {Metadata} from 'next';
+import {ContactPage} from '@/components/ContactPage';
+import {site} from '@/data/site';
 
-export default function Contact(){const {t}=useLanguage();return <><section className="page-head"><p className="eyebrow">{t('contact.eyebrow')}</p><h1>{t('contact.title')}</h1><p>{t('contact.copy')}</p></section><section className="section contact"><div><h2>{t('contact.direct')}</h2><a className="contact-line" href={whatsappUrl} target="_blank"><span>WhatsApp</span><span>↗</span></a><a className="contact-line" href={`mailto:${site.email}`}><span>{site.email}</span><span>↗</span></a><div className="contact-line"><span>{site.address}</span></div><p>{t('contact.fastQuote')}</p></div><form action={`mailto:${site.email}`} method="get"><p className="eyebrow">{t('contact.formEyebrow')}</p><label>{t('contact.name')}<input required name="name" placeholder={t('contact.name')}/></label><label>{t('contact.email')}<input required name="email" type="email" placeholder="name@company.com"/></label><label>{t('contact.company')}<input name="company" placeholder={t('contact.company')}/></label><label>{t('contact.request')}<textarea required name="body" rows={5} placeholder={t('contact.requestPlaceholder')}/></label><button className="button dark" type="submit">{t('contact.prepare')}</button><small>{t('contact.note')}</small></form></section></>}
+export const metadata:Metadata={
+  title:'Contact Home Appliance Factory | Wholesale OEM Quotation',
+  description:'Send your appliance models, quantity, destination and private-label requirements to Ningbo Shanwu. Request a practical B2B wholesale quotation today.',
+  alternates:{canonical:`${site.baseUrl}/contact/`},
+};
+export default function Page(){return <ContactPage/>}

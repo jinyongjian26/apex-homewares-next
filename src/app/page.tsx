@@ -1,61 +1,11 @@
-'use client';
+import type {Metadata} from 'next';
+import {HomePage} from '@/components/HomePage';
+import {site} from '@/data/site';
 
-import Link from 'next/link';
-import {ProductCard} from '@/components/ProductCard';
-import {useLanguage} from '@/components/LanguageProvider';
-import {products} from '@/data/products';
-import styles from './home.module.css';
+export const metadata:Metadata={
+  title:'Wholesale Small Home Appliances China | OEM & Private Label Factory',
+  description:'Source air fryers, hair styling tools, garment steamers and electric irons from a China B2B home appliance factory. Request your wholesale OEM quotation.',
+  alternates:{canonical:site.baseUrl},
+};
 
-const featuredSlugs=[
-  'digital-air-fryer',
-  'steel-kettle',
-  'ceramic-steam-iron',
-  'hb-96',
-];
-
-const featuredProducts=featuredSlugs.flatMap(slug=>{
-  const product=products.find(item=>item.slug===slug);
-  return product?[product]:[];
-});
-
-export default function Home(){
-  const {t}=useLanguage();
-
-  return <>
-    <section className="hero">
-      <div>
-        <p className="eyebrow">{t('home.eyebrow')}</p>
-        <h1>{t('home.title')}</h1>
-        <p>{t('home.copy')}</p>
-        <Link className="button gold" href="/products">{t('home.explore')}</Link>
-      </div>
-    </section>
-    <section className="section">
-      <div className="section-top">
-        <div>
-          <p className="eyebrow">{t('home.featuredEyebrow')}</p>
-          <h2>{t('home.featuredTitle')}</h2>
-        </div>
-        <Link href="/products">{t('home.viewAll')}</Link>
-      </div>
-      <div className={styles.featuredGrid}>
-        {featuredProducts.map(product=><ProductCard key={product.slug} product={product}/>) }
-      </div>
-    </section>
-    <section className="split">
-      <div>
-        <p className="eyebrow">{t('home.partnerEyebrow')}</p>
-        <h2>{t('home.partnerTitle')}</h2>
-      </div>
-      <div>
-        <p>{t('home.partnerCopy')}</p>
-        <p className="facts">{t('home.facts')}</p>
-      </div>
-    </section>
-    <section className="cta">
-      <p className="eyebrow">{t('home.ctaEyebrow')}</p>
-      <h2>{t('home.ctaTitle')}</h2>
-      <Link className="button gold" href="/contact">{t('home.ctaButton')}</Link>
-    </section>
-  </>;
-}
+export default function Page(){return <HomePage/>}

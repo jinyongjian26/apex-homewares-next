@@ -1,4 +1,6 @@
-'use client';
-import {useLanguage} from '@/components/LanguageProvider';
+import type {Metadata} from 'next';
+import {AboutPage} from '@/components/AboutPage';
+import {site} from '@/data/site';
 
-export default function About(){const {t}=useLanguage();return <><section className="page-head"><p className="eyebrow">{t('about.eyebrow')}</p><h1>{t('about.title')}</h1><p>{t('about.copy')}</p></section><section className="section about-grid"><article><span>01</span><h2>{t('about.factoryTitle')}</h2><p>{t('about.factoryCopy')}</p></article><article><span>02</span><h2>{t('about.marketTitle')}</h2><p>{t('about.marketCopy')}</p></article><article><span>03</span><h2>{t('about.certTitle')}</h2><p>{t('about.certCopy')}</p></article></section></>}
+export const metadata:Metadata={title:'About SHANWU | China Home Appliance Factory & Wholesale Supplier',description:'Learn how Ningbo Shanwu supports B2B buyers with make-to-order small appliances, OEM branding, packaging customisation and export coordination. Contact our team for a quotation.',alternates:{canonical:`${site.baseUrl}/about/`}};
+export default function Page(){return <AboutPage/>}
