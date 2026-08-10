@@ -20,17 +20,6 @@ export type Product = {
 
 export const products: Product[] = [
   {
-    slug:'digital-air-fryer',
-    name:'Private Label Digital Air Fryer',
-    category:'Kitchen',
-    image:'/images/air-fryer-wholesale.webp',
-    description:'A practical digital air fryer program for importers, distributors and retail chains seeking custom branding, colour and export packaging.',
-    moq:'Flexible MOQ by model',
-    price:'Wholesale price on request',
-    highlights:['Private label ready','Custom control panel artwork','Export carton options'],
-    specs:[{label:'Capacity',value:'5.5 L'},{label:'Power',value:'1700 W'},{label:'Voltage',value:'220-240 V'},{label:'Branding',value:'OEM / private label available'}],
-  },
-  {
     slug:'handheld-garment-steamer',
     name:'Handheld Garment Steamer',
     category:'Home',
