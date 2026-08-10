@@ -7,7 +7,7 @@ import {products} from '@/data/products';
 import {quoteWhatsappUrl} from '@/data/site';
 import styles from '@/app/home.module.css';
 
-const featuredSlugs=['digital-air-fryer','handheld-garment-steamer','ceramic-steam-iron','hb-96','hs-218','hc-71'];
+const featuredSlugs=['handheld-garment-steamer','ceramic-steam-iron','hb-96','hs-218','hc-71'];
 const featuredProducts=featuredSlugs.flatMap(slug=>{const product=products.find(item=>item.slug===slug);return product?[product]:[]});
 
 const faqKeys=['1','2','3','4','5','6'];
