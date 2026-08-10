@@ -1,6 +1,7 @@
 // PRODUCT MANAGEMENT FILE
 // Add a product by duplicating an object below and using a unique slug.
 import {personalCareProducts} from './personal-care-products';
+import {kitchenCatalogProducts} from './kitchen-catalog-products.generated';
 
 export type ProductTranslation = {name:string; description:string; specs:{label:string;value:string}[]};
 export type Product = {
@@ -42,5 +43,6 @@ export const products: Product[] = [
     specs:[{label:'Power',value:'Up to 2400 W'},{label:'Soleplate',value:'Ceramic'},{label:'Voltage',value:'220-240 V'},{label:'Branding',value:'OEM / private label available'}],
   },
   {slug:'portable-espresso-maker',name:'Portable 20-Bar Espresso Maker',category:'Kitchen',image:'/espresso-gallery/hero-english.png',description:'Compact USB-rechargeable espresso maker with 20-bar extraction, designed for office, home and travel use. Compatible with coffee capsules and ground coffee for hot or cold brewing.',moq:'1 pc sample / 100 pcs wholesale tier',price:'FOB CNY 208-231.40',specs:[{label:'Pump pressure',value:'20 bar'},{label:'Coffee compatibility',value:'Capsules and ground coffee'},{label:'Brewing mode',value:'Hot and cold extraction'},{label:'Body material',value:'Plastic'},{label:'Capacity',value:'3-5 cups'},{label:'Rated voltage',value:'Up to 36 V'},{label:'Charging',value:'USB-C, approx. 4 hours'},{label:'Product size',value:'10 x 10 x 31 cm'},{label:'Gross weight',value:'940 g'},{label:'Branding',value:'OEM / private label available'}],colors:[{name:'Black',hex:'#252525'},{name:'Silver Gray',hex:'#9FA2A1'},{name:'Olive Green',hex:'#586047'},{name:'Pink',hex:'#D38E94'},{name:'Dark Green',hex:'#21443D'},{name:'Light Purple',hex:'#C8B2C6'}],gallery:[{src:'/espresso-gallery/hero-english.png',alt:'Portable espresso maker in olive green'},{src:'/espresso-gallery/hot-cold-brew.png',alt:'Hot and cold brewing feature'},{src:'/espresso-gallery/six-features.png',alt:'Portable espresso maker features'},{src:'/espresso-gallery/temperature-control.png',alt:'Temperature control and heating technology'},{src:'/espresso-gallery/two-brew-options.png',alt:'Capsule and ground coffee compatibility'},{src:'/espresso-gallery/pressure-extraction.png',alt:'20 bar pressure extraction'},{src:'/espresso-gallery/battery-power.png',alt:'7650mAh battery power'},{src:'/espresso-gallery/in-car.png',alt:'Portable espresso maker in a car'},{src:'/espresso-gallery/silver-lifestyle.png',alt:'Silver portable espresso maker'}]},
+  ...kitchenCatalogProducts,
   ...personalCareProducts
 ];
