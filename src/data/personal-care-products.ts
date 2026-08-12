@@ -10,7 +10,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-1902.webp",
     "description": "Professional Hair Dryer model HD-1902, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -143,7 +142,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-1903.webp",
     "description": "Professional Hair Dryer model HD-1903, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -348,7 +346,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-1907.webp",
     "description": "Professional Hair Dryer model HD-1907, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -577,7 +574,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-190.webp",
     "description": "Professional Hair Dryer model HD-190, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -686,7 +682,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-1901.webp",
     "description": "Professional Hair Dryer model HD-1901, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -807,7 +802,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-1905.webp",
     "description": "Professional Hair Dryer model HD-1905, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -1012,7 +1006,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-1906.webp",
     "description": "Professional Hair Dryer model HD-1906, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -1133,7 +1126,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-186.webp",
     "description": "Professional Hair Dryer model HD-186, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -1230,7 +1222,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-180.webp",
     "description": "Professional Hair Dryer model HD-180, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -1339,7 +1330,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-162.webp",
     "description": "Professional Hair Dryer model HD-162, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -1448,7 +1438,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-160.webp",
     "description": "Professional Hair Dryer model HD-160, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -1641,7 +1630,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-1816c.webp",
     "description": "Professional Hair Dryer model HD-1816C, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -1750,7 +1738,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-1812f.webp",
     "description": "Professional Hair Dryer model HD-1812F, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -1859,7 +1846,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-1816f.webp",
     "description": "Professional Hair Dryer model HD-1816F, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -1968,7 +1954,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-185.webp",
     "description": "Professional Hair Dryer model HD-185, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -2137,7 +2122,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-1818.webp",
     "description": "Professional Hair Dryer model HD-1818, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -2246,7 +2230,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-1819.webp",
     "description": "Professional Hair Dryer model HD-1819, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -2355,7 +2338,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-4800.webp",
     "description": "Professional Hair Dryer model HD-4800, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -2464,7 +2446,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-183.webp",
     "description": "Professional Hair Dryer model HD-183, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -2645,7 +2626,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-739.webp",
     "description": "Wall Mounted Hair Dryer model HD-739, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [],
     "translations": {
       "es": {
@@ -2667,7 +2647,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-738.webp",
     "description": "Wall Mounted Hair Dryer model HD-738, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -2740,7 +2719,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-1802.webp",
     "description": "Travel Hair Dryer model HD-1802, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -2849,7 +2827,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hd-188.webp",
     "description": "Professional Hair Dryer model HD-188, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -3030,7 +3007,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-8201.webp",
     "description": "Detachable Hot Air Brush model HB-8201, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -3271,7 +3247,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-8202.webp",
     "description": "Detachable Hot Air Brush model HB-8202, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -3464,7 +3439,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-832.webp",
     "description": "Hot Air Brush model HB-832, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -3573,7 +3547,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-830.webp",
     "description": "Hot Air Brush model HB-830, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -3682,7 +3655,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-831.webp",
     "description": "Hot Air Brush model HB-831, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -3791,7 +3763,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-822.webp",
     "description": "Hot Air Brush With LED model HB-822, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -3900,7 +3871,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-833.webp",
     "description": "Hot Air Brush model HB-833, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -4009,7 +3979,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-820.webp",
     "description": "Hot Air Brush model HB-820, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -4118,7 +4087,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-825.webp",
     "description": "Hot Air Brush model HB-825, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -4227,7 +4195,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-823.webp",
     "description": "Hot Air Brush model HB-823, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -4336,7 +4303,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-822a.webp",
     "description": "Hot Air Brush model HB-822A, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -4445,7 +4411,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-816.webp",
     "description": "Hot Air Brush model HB-816, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -4554,7 +4519,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-96.webp",
     "description": "Hot Air Brush model HB-96, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -4675,7 +4639,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-92.webp",
     "description": "Hot Air Brush model HB-92, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -4796,7 +4759,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-91.webp",
     "description": "Hot Air Brush model HB-91, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -4917,7 +4879,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-812.webp",
     "description": "Hot Air Brush model HB-812, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -5038,7 +4999,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-813.webp",
     "description": "Hot Air Brush model HB-813, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -5159,7 +5119,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-93.webp",
     "description": "Hot Air Brush model HB-93, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -5268,7 +5227,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-815.webp",
     "description": "Hot Air Brush model HB-815, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -5413,7 +5371,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-95.webp",
     "description": "Hot Air Brush model HB-95, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -5534,7 +5491,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-99.webp",
     "description": "DC Motor model HB-99, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",
@@ -5643,7 +5599,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-97.webp",
     "description": "DC Motor model HB-97, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",
@@ -5752,7 +5707,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-811.webp",
     "description": "Hot Air Brush model HB-811, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -5873,7 +5827,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-828.webp",
     "description": "DC Motor model HB-828, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",
@@ -5982,7 +5935,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-821.webp",
     "description": "Detachable Hot Air Brush model HB-821, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -6139,7 +6091,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-803.webp",
     "description": "Rotating Hot Air Brush model HB-803, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -6260,7 +6211,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-810.webp",
     "description": "Rotating Hot Air Brush model HB-810, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -6381,7 +6331,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-818.webp",
     "description": "Hot Air Brush model HB-818, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -6538,7 +6487,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-819.webp",
     "description": "Hot Air Brush model HB-819, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -6707,7 +6655,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-808.webp",
     "description": "DC Motor model HB-808, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",
@@ -6852,7 +6799,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-827.webp",
     "description": "Rotating Hot Air Brush model HB-827, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -6937,7 +6883,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hb-806.webp",
     "description": "Hot Air Brush model HB-806, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Motor",
@@ -7034,7 +6979,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-8203.webp",
     "description": "BLDC Hair Straightener model HS-8203, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",
@@ -7143,7 +7087,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-230.webp",
     "description": "World Wide Voltage model HS-230, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",
@@ -7300,7 +7243,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-226.webp",
     "description": "100-240V 50/60Hz 30W model HS-226, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Plate",
@@ -7409,7 +7351,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-231.webp",
     "description": "100-240V 50/60Hz 45-52W model HS-231, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Plate",
@@ -7506,7 +7447,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-232.webp",
     "description": "100-240V 50/60Hz 50-60W model HS-232, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Plate",
@@ -7651,7 +7591,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-229.webp",
     "description": "100-240V 50/60Hz 45-52W model HS-229, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Plate",
@@ -7772,7 +7711,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-227.webp",
     "description": "Charging Straightener model HS-227, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",
@@ -7929,7 +7867,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-228.webp",
     "description": "100-240V 50/60Hz 35W model HS-228, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Plate",
@@ -8014,7 +7951,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-225.webp",
     "description": "Hair Straightener Brush model HS-225, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",
@@ -8111,7 +8047,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-223.webp",
     "description": "100-240V 50/60Hz 45W model HS-223, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Feature 1",
@@ -8256,7 +8191,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-221.webp",
     "description": "100-240V 50/60Hz 45W model HS-221, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Feature 1",
@@ -8377,7 +8311,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-218.webp",
     "description": "100-240V 50/60Hz 25W model HS-218, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Feature 1",
@@ -8474,7 +8407,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-79.webp",
     "description": "USB Rechargeable Hair Straightener model HS-79, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Feature 1",
@@ -8535,7 +8467,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-219.webp",
     "description": "100-240V 50/60Hz 35W model HS-219, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Feature 1",
@@ -8644,7 +8575,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hs-220.webp",
     "description": "100-240V 50/60Hz 25W model HS-220, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Plate",
@@ -8717,7 +8647,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/rcy-88s.webp",
     "description": "Hair Straightener Brush model RCY-88S, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Feature 1",
@@ -8826,7 +8755,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/rcy-88.webp",
     "description": "Hair Straightener Brush model RCY-88, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Feature 1",
@@ -8947,7 +8875,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/rcy-87.webp",
     "description": "Steam Hair Straightener Brush model RCY-87, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Feature 1",
@@ -9140,7 +9067,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hc-751.webp",
     "description": "Hair Curler model HC-751, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Feature 1",
@@ -9261,7 +9187,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hc-750.webp",
     "description": "Hair Curler model HC-750, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Feature 1",
@@ -9418,7 +9343,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hc-753.webp",
     "description": "Hair Curler model HC-753, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",
@@ -9527,7 +9451,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hc-75.webp",
     "description": "Hair Curler model HC-75, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",
@@ -9624,7 +9547,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hc-72.webp",
     "description": "Hair Curler model HC-72, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",
@@ -9817,7 +9739,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hc-752.webp",
     "description": "Hair Curler model HC-752, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Feature 1",
@@ -10010,7 +9931,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hc-71.webp",
     "description": "Hair Curler model HC-71, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Feature 1",
@@ -10119,7 +10039,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hc-75-mini.webp",
     "description": "Mini Hair Curler model HC-75, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",
@@ -10204,7 +10123,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hc-78.webp",
     "description": "Rechargeable Hair Curler model HC-78, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Heat / temperature",
@@ -10361,7 +10279,6 @@ export const personalCareProducts: Product[] = [
     "image": "/personal-care/hc-77.webp",
     "description": "Hair Curler model HC-77, designed for personal-care retail, distributor and OEM programs.",
     "moq": "MOQ on request",
-    "price": "FOB price on request",
     "specs": [
       {
         "label": "Electrical",

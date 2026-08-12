@@ -17,7 +17,7 @@ export function ProductCard({product}: {product:Product}) {
       <h3><Link href={`/products/${product.slug}/`}>{name}</Link></h3>
       <p className="product-description">{description}</p>
       <div className="product-badges"><span>Wholesale</span><span>Private Label</span><span>Low MOQ Options</span></div>
-      <div className="meta"><span><b>{t('product.moq')}</b>{product.moq}</span><span><b>{t('product.price')}</b>{product.price}</span></div>
+      <div className="meta"><span><b>{t('product.moq')}</b>{product.moq}</span></div>
       <Link className="product-link" href={`/products/${product.slug}/`}>{t('product.view')} <span aria-hidden="true">→</span></Link>
     </div>
   </article>;

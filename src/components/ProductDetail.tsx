@@ -25,7 +25,7 @@ export function ProductDetail({product}:{product:Product}){
         <div className="product-summary">
           <p className="eyebrow">{t(`category.${product.category}`)} · B2B wholesale</p><h1>{name}</h1><p className="lead">{description} {t('product.brandingCopy')}</p>
           <div className="summary-tags"><span>Wholesale</span><span>OEM / Private Label</span><span>Make to Order</span></div>
-          <div className="quote-facts"><div><span>{t('product.moq')}</span><b>{product.moq}</b></div><div><span>{t('product.price')}</span><b>{product.price}</b></div><div><span>Target buyers</span><b>Importers · distributors · retailers</b></div></div>
+          <div className="quote-facts"><div><span>{t('product.moq')}</span><b>{product.moq}</b></div><div><span>Target buyers</span><b>Importers · distributors · retailers</b></div></div>
           <div className="button-row"><a className="button whatsapp-button" href={wa} target="_blank" rel="noreferrer">{t('product.askWhatsapp')}</a><a className="button outline" href={`mailto:${site.email}?subject=${encodeURIComponent(`Wholesale inquiry - ${name}`)}`}>{t('product.emailInquiry')}</a></div>
           <div className="buyer-highlights"><p className="eyebrow">{t('product.highlights')}</p><ul>{highlights.map(item=><li key={item}>{item}</li>)}</ul></div>
         </div>

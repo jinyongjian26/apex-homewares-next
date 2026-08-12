@@ -65,3 +65,5 @@
 .product-card img,.product-main-image img{object-fit:contain}
 /* Keep the anti-spam field accessible to the form without creating mobile overflow. */
 .honey-field{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;clip-path:inset(50%)!important;white-space:nowrap!important;border:0!important;left:auto!important}
+/* Public catalogue shows MOQ only; prices are handled privately by inquiry. */
+.product-card .meta{grid-template-columns:1fr}

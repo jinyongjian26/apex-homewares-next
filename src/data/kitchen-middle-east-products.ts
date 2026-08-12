@@ -10,7 +10,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82152.webp",
     "description": "Stainless steel kettle model KE82152 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 10.8",
     "highlights": [
       "360°rotation",
       "Automatic lid-opening",
@@ -59,10 +58,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 10.8"
       }
     ],
     "translations": {
@@ -109,10 +104,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 10.8"
           }
         ]
       },
@@ -159,10 +150,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 10.8"
           }
         ]
       }
@@ -175,7 +162,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-jt62126.webp",
     "description": "2-Slice Stainless Steel Toaster model JT62126 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 10.8",
     "highlights": [
       "Reheat/defrost/cancel setting",
       "Adjustable browning control",
@@ -224,10 +210,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 10.8"
       }
     ],
     "translations": {
@@ -274,10 +256,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 10.8"
           }
         ]
       },
@@ -324,10 +302,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 10.8"
           }
         ]
       }
@@ -340,7 +314,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-j-8801a.webp",
     "description": "Glass Blender model J-8801A for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 12.95",
     "highlights": [
       "2speed with pulse function",
       "Ice crusher blade",
@@ -386,10 +359,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 12.95"
       }
     ],
     "translations": {
@@ -436,10 +405,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 12.95"
           }
         ]
       },
@@ -486,10 +451,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 12.95"
           }
         ]
       }
@@ -502,7 +463,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-hb1636.webp",
     "description": "Retro Hand Blender model HB1636 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 6.5",
     "highlights": [
       "2 speeds",
       "Detachable S.S shaft",
@@ -546,10 +506,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 6.5"
       }
     ],
     "gallery": [
@@ -602,10 +558,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 6.5"
           }
         ]
       },
@@ -648,10 +600,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 6.5"
           }
         ]
       }
@@ -664,7 +612,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82152t.webp",
     "description": "Stainless steel kettle model KE82152T for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 11.5",
     "highlights": [
       "With temperature dial",
       "360°rotation",
@@ -713,10 +660,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 11.5"
       }
     ],
     "translations": {
@@ -763,10 +706,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 11.5"
           }
         ]
       },
@@ -813,10 +752,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 11.5"
           }
         ]
       }
@@ -829,7 +764,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-j-8801a-2.webp",
     "description": "Glass Blender model J-8801A for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "1000 pcs",
-    "price": "FOB Ningbo USD 10.8",
     "highlights": [
       "2speed with pulse function",
       "Ice crusher blade",
@@ -875,10 +809,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 10.8"
       }
     ],
     "translations": {
@@ -925,10 +855,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 10.8"
           }
         ]
       },
@@ -975,10 +901,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 10.8"
           }
         ]
       }
@@ -991,7 +913,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82152-2.webp",
     "description": "Stainless steel kettle model KE82152 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 11.5",
     "highlights": [
       "360°rotation",
       "Automatic lid-opening",
@@ -1040,10 +961,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 11.5"
       }
     ],
     "translations": {
@@ -1090,10 +1007,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 11.5"
           }
         ]
       },
@@ -1140,10 +1053,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 11.5"
           }
         ]
       }
@@ -1156,7 +1065,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-jt62126-2.webp",
     "description": "2-Slice Stainless Steel Toaster model JT62126 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 11.5",
     "highlights": [
       "Reheat/defrost/cancel setting",
       "Adjustable browning control",
@@ -1205,10 +1113,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 11.5"
       }
     ],
     "translations": {
@@ -1255,10 +1159,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 11.5"
           }
         ]
       },
@@ -1305,10 +1205,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 11.5"
           }
         ]
       }
@@ -1321,7 +1217,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82107b.webp",
     "description": "Plastic Kettle model KE82107B for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo · China controller: $6.1 / Strix：$6.5",
     "highlights": [
       "360°rotation",
       "Automatic lid-opening structure",
@@ -1370,10 +1265,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CB/CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo · China controller: $6.1 / Strix：$6.5"
       }
     ],
     "translations": {
@@ -1420,10 +1311,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo · China controller: $6.1 / Strix：$6.5"
           }
         ]
       },
@@ -1470,10 +1357,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo · China controller: $6.1 / Strix：$6.5"
           }
         ]
       }
@@ -1486,7 +1369,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-jt62100b.webp",
     "description": "2-slice Plastic Toaster model JT62100B for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 7.7",
     "highlights": [
       "Reheat/defrost/cancel setting",
       "Adjustable browning control",
@@ -1535,10 +1417,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 7.7"
       }
     ],
     "translations": {
@@ -1585,10 +1463,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 7.7"
           }
         ]
       },
@@ -1635,10 +1509,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 7.7"
           }
         ]
       }
@@ -1651,7 +1521,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82107b-2.webp",
     "description": "Plastic Kettle model KE82107B for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo · China controller: $5.6 / Strix：$6.1",
     "highlights": [
       "with wood grain decoration",
       "360°rotation",
@@ -1700,10 +1569,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CB/CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo · China controller: $5.6 / Strix：$6.1"
       }
     ],
     "translations": {
@@ -1750,10 +1615,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo · China controller: $5.6 / Strix：$6.1"
           }
         ]
       },
@@ -1800,10 +1661,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo · China controller: $5.6 / Strix：$6.1"
           }
         ]
       }
@@ -1816,7 +1673,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-jt62100b-2.webp",
     "description": "2-slice Plastic Toaster model JT62100B for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 7.9",
     "highlights": [
       "with wood grain decoration",
       "Reheat/defrost/cancel setting",
@@ -1865,10 +1721,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 7.9"
       }
     ],
     "translations": {
@@ -1915,10 +1767,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 7.9"
           }
         ]
       },
@@ -1965,10 +1813,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 7.9"
           }
         ]
       }
@@ -1981,7 +1825,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-gse005.webp",
     "description": "Retro Blender model GSE005 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 8.8",
     "highlights": [
       "Cup capacity： 600ML",
       "Material: ABS+SS304+PCTG",
@@ -2027,10 +1870,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "NEW"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 8.8"
       }
     ],
     "translations": {
@@ -2077,10 +1916,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "NEW"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 8.8"
           }
         ]
       },
@@ -2127,10 +1962,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "NEW"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 8.8"
           }
         ]
       }
@@ -2143,7 +1974,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-hb43a.webp",
     "description": "Hand Blender model HB43A for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 7.3",
     "highlights": [
       "with wood grain decoration",
       "Copper motor",
@@ -2192,10 +2022,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "NEW"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 7.3"
       }
     ],
     "translations": {
@@ -2242,10 +2068,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "NEW"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 7.3"
           }
         ]
       },
@@ -2292,10 +2114,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "NEW"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 7.3"
           }
         ]
       }
@@ -2308,7 +2126,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82128a.webp",
     "description": "Double Layer Kettle model KE82128A for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo · China controller: $7.3 / Otter：$8.6",
     "highlights": [
       "360°rotation",
       "With diamond pattern",
@@ -2357,10 +2174,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CB/CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo · China controller: $7.3 / Otter：$8.6"
       }
     ],
     "translations": {
@@ -2407,10 +2220,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo · China controller: $7.3 / Otter：$8.6"
           }
         ]
       },
@@ -2457,10 +2266,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo · China controller: $7.3 / Otter：$8.6"
           }
         ]
       }
@@ -2473,7 +2278,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-jt62101c.webp",
     "description": "2-Slice Toaster model JT62101C for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 8.3",
     "highlights": [
       "Plastic body with diamond surface",
       "Reheat/defrost/cancel setting",
@@ -2522,10 +2326,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CB/CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 8.3"
       }
     ],
     "translations": {
@@ -2572,10 +2372,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 8.3"
           }
         ]
       },
@@ -2622,10 +2418,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 8.3"
           }
         ]
       }
@@ -2638,7 +2430,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-hb258.webp",
     "description": "Diamond-Pattern Hand Blender model HB258 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 6.5",
     "highlights": [
       "Streamline design",
       "Electroplating knobs",
@@ -2671,10 +2462,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Approvals",
         "value": "Two speed accessories: 500m/600ml"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 6.5"
       }
     ],
     "translations": {
@@ -2705,10 +2492,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Homologaciones",
             "value": "Two speed accessories: 500m/600ml"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 6.5"
           }
         ]
       },
@@ -2739,10 +2522,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الاعتمادات",
             "value": "Two speed accessories: 500m/600ml"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 6.5"
           }
         ]
       }
@@ -2755,7 +2534,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82107d-1.webp",
     "description": "Plastic Kettle model KE82107D-1 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 5.85",
     "highlights": [
       "360° rotation",
       "Automatic lid-opening",
@@ -2804,10 +2582,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 5.85"
       }
     ],
     "translations": {
@@ -2854,10 +2628,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 5.85"
           }
         ]
       },
@@ -2904,10 +2674,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 5.85"
           }
         ]
       }
@@ -2920,7 +2686,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-jt62100d.webp",
     "description": "2-Slice Plastic Toaster model JT62100D for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 7.7",
     "highlights": [
       "Reheat/defrost/cancel setting",
       "Adjustable browning control",
@@ -2969,10 +2734,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 7.7"
       }
     ],
     "translations": {
@@ -3019,10 +2780,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 7.7"
           }
         ]
       },
@@ -3069,10 +2826,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 7.7"
           }
         ]
       }
@@ -3085,7 +2838,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-hb258-2.webp",
     "description": "Hand Blender 4-in-1 model HB258 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 10",
     "highlights": [
       "Streamline design",
       "Electroplating knobs",
@@ -3126,10 +2878,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Container Loading 20'/40'/40HQ",
         "value": "13998 /28998 /33996 PCS"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 10"
       }
     ],
     "gallery": [
@@ -3182,10 +2930,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Carga de contenedor 20'/40'/40HQ",
             "value": "13998 /28998 /33996 PCS"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 10"
           }
         ]
       },
@@ -3224,10 +2968,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "تحميل الحاوية 20'/40'/40HQ",
             "value": "13998 /28998 /33996 PCS"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 10"
           }
         ]
       }
@@ -3240,7 +2980,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82107c.webp",
     "description": "Plastic Kettle model KE82107C for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 5.9",
     "highlights": [
       "360° rotation",
       "Automatic lid-opening",
@@ -3289,10 +3028,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 5.9"
       }
     ],
     "translations": {
@@ -3339,10 +3074,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 5.9"
           }
         ]
       },
@@ -3389,10 +3120,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 5.9"
           }
         ]
       }
@@ -3405,7 +3132,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-jt62100c.webp",
     "description": "2-Slice Plastic Toaster model JT62100C for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 7.35",
     "highlights": [
       "Reheat/defrost/cancel setting",
       "Adjustable browning control",
@@ -3454,10 +3180,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 7.35"
       }
     ],
     "translations": {
@@ -3504,10 +3226,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 7.35"
           }
         ]
       },
@@ -3554,10 +3272,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 7.35"
           }
         ]
       }
@@ -3570,7 +3284,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82128d.webp",
     "description": "Stainless Steel Kettle model KE82128D for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 7",
     "highlights": [
       "360°rotation",
       "Stainless steel inner cup",
@@ -3619,10 +3332,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 7"
       }
     ],
     "translations": {
@@ -3669,10 +3378,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 7"
           }
         ]
       },
@@ -3719,10 +3424,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 7"
           }
         ]
       }
@@ -3735,7 +3436,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-jt62103.webp",
     "description": "2-slice Plastic Toaster model JT62103 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 6.5",
     "highlights": [
       "Reheat/defrost/cancel setting",
       "Adjustable browning control",
@@ -3784,10 +3484,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 6.5"
       }
     ],
     "translations": {
@@ -3834,10 +3530,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 6.5"
           }
         ]
       },
@@ -3884,10 +3576,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 6.5"
           }
         ]
       }
@@ -3900,7 +3588,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82105a.webp",
     "description": "Stainless Steel Kettle model KE82105A for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "3000 pcs",
-    "price": "FOB Ningbo · China controller：$ 8.8 / Strix：$ 9.5",
     "highlights": [
       "with wooden handle",
       "360°rotation",
@@ -3949,10 +3636,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo · China controller：$ 8.8 / Strix：$ 9.5"
       }
     ],
     "translations": {
@@ -3999,10 +3682,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo · China controller：$ 8.8 / Strix：$ 9.5"
           }
         ]
       },
@@ -4049,10 +3728,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo · China controller：$ 8.8 / Strix：$ 9.5"
           }
         ]
       }
@@ -4065,7 +3740,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82101.webp",
     "description": "Glass kettle model KE82101 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 6.6",
     "highlights": [
       "360°rotation",
       "Automatic lid-opening",
@@ -4114,10 +3788,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 6.6"
       }
     ],
     "translations": {
@@ -4164,10 +3834,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 6.6"
           }
         ]
       },
@@ -4214,10 +3880,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 6.6"
           }
         ]
       }
@@ -4230,7 +3892,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82101s.webp",
     "description": "Glass kettle model KE82101S for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 7.2",
     "highlights": [
       "360°rotation",
       "Automatic lid-opening",
@@ -4279,10 +3940,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 7.2"
       }
     ],
     "translations": {
@@ -4329,10 +3986,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 7.2"
           }
         ]
       },
@@ -4379,10 +4032,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 7.2"
           }
         ]
       }
@@ -4395,7 +4044,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ke82129.webp",
     "description": "Stainless Steel Kettle model KE82129 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo · $9.45  with Strix controller",
     "highlights": [
       "360°rotation",
       "Orbicular-shaped",
@@ -4444,10 +4092,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo · $9.45  with Strix controller"
       }
     ],
     "translations": {
@@ -4494,10 +4138,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo · $9.45  with Strix controller"
           }
         ]
       },
@@ -4544,10 +4184,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo · $9.45  with Strix controller"
           }
         ]
       }
@@ -4560,7 +4196,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-jt62101.webp",
     "description": "2-Slice Toaster model JT62101 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 10",
     "highlights": [
       "Plastic body with small mesh surface",
       "Reheatdefrost/cancel setting",
@@ -4609,10 +4244,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CB/CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 10"
       }
     ],
     "translations": {
@@ -4659,10 +4290,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 10"
           }
         ]
       },
@@ -4709,10 +4336,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 10"
           }
         ]
       }
@@ -4725,7 +4348,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ht-3005dw.webp",
     "description": "Air Fryer model HT-3005DW for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "1000 pcs",
-    "price": "FOB Ningbo USD 12.9",
     "highlights": [
       "Capacity:3.5L",
       "Timer:0-60 mins",
@@ -4742,10 +4364,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
         "value": "* Gift Box Size:27.9x24.3x29.8cm\n* Qty/Ctn: 4pcs/ctn\n* QTY40'HQ:3060PCS"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 12.9"
       }
     ],
     "translations": {
@@ -4760,10 +4378,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* Gift Box Size:27.9x24.3x29.8cm\n* Qty/Ctn: 4pcs/ctn\n* QTY40'HQ:3060PCS"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 12.9"
           }
         ]
       },
@@ -4778,10 +4392,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* Gift Box Size:27.9x24.3x29.8cm\n* Qty/Ctn: 4pcs/ctn\n* QTY40'HQ:3060PCS"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 12.9"
           }
         ]
       }
@@ -4794,7 +4404,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ht-4005w.webp",
     "description": "Air Fryer model HT-4005W for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "1000 pcs",
-    "price": "FOB Ningbo USD 15.5",
     "highlights": [
       "Capacity: 4.5L",
       "Working time: 0-60mins",
@@ -4811,10 +4420,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
         "value": "* GB Size:30.5x25.5x30.6cm\n* Qty/Ctn: 2pcs/ctn\n* Ctn Size: 63x27x32cm\n* QTY40'HQ:2500pcs"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 15.5"
       }
     ],
     "translations": {
@@ -4829,10 +4434,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* GB Size:30.5x25.5x30.6cm\n* Qty/Ctn: 2pcs/ctn\n* Ctn Size: 63x27x32cm\n* QTY40'HQ:2500pcs"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 15.5"
           }
         ]
       },
@@ -4847,10 +4448,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* GB Size:30.5x25.5x30.6cm\n* Qty/Ctn: 2pcs/ctn\n* Ctn Size: 63x27x32cm\n* QTY40'HQ:2500pcs"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 15.5"
           }
         ]
       }
@@ -4863,7 +4460,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ht-5001s.webp",
     "description": "Air Fryer model HT-5001S for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "1000 pcs",
-    "price": "FOB Ningbo USD 21.2",
     "highlights": [
       "Capacity:5L",
       "Timer:0-60 mins",
@@ -4880,10 +4476,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Approvals\nLVD\nEMC\nROHS\nLFGB",
         "value": "*GB Size:30.5x25.5x30.6cm\n*Qty/Ctn:2pcs/ctn\n*Ctn Size:63x27x32cm\n*QTY40'HQ:2500pcs"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 21.2"
       }
     ],
     "translations": {
@@ -4898,10 +4490,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nLVD\nEMC\nROHS\nLFGB",
             "value": "*GB Size:30.5x25.5x30.6cm\n*Qty/Ctn:2pcs/ctn\n*Ctn Size:63x27x32cm\n*QTY40'HQ:2500pcs"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 21.2"
           }
         ]
       },
@@ -4916,10 +4504,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nLVD\nEMC\nROHS\nLFGB",
             "value": "*GB Size:30.5x25.5x30.6cm\n*Qty/Ctn:2pcs/ctn\n*Ctn Size:63x27x32cm\n*QTY40'HQ:2500pcs"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 21.2"
           }
         ]
       }
@@ -4932,7 +4516,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ht-1004w.webp",
     "description": "Air Fryer model HT-1004W for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "1000 pcs",
-    "price": "FOB Ningbo · 4L:US$15.6 / 6L:US$18.4 / 8L:US$20.3 / 10L:US$24.2",
     "highlights": [
       "Capacity:4L/6L/8L/10L",
       "Timer:0-60 mins",
@@ -4949,10 +4532,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
         "value": "* Gift Box Size360*280*310mm/395*315*330mm/410*335*365mm/435*370*355mm\n* Qty/Ctn:2pcs/ctn\n* QTY 40'HQ:1089pcs/1426pcs/1176pcs/1070pcs"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo · 4L:US$15.6 / 6L:US$18.4 / 8L:US$20.3 / 10L:US$24.2"
       }
     ],
     "translations": {
@@ -4967,10 +4546,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* Gift Box Size360*280*310mm/395*315*330mm/410*335*365mm/435*370*355mm\n* Qty/Ctn:2pcs/ctn\n* QTY 40'HQ:1089pcs/1426pcs/1176pcs/1070pcs"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo · 4L:US$15.6 / 6L:US$18.4 / 8L:US$20.3 / 10L:US$24.2"
           }
         ]
       },
@@ -4985,10 +4560,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* Gift Box Size360*280*310mm/395*315*330mm/410*335*365mm/435*370*355mm\n* Qty/Ctn:2pcs/ctn\n* QTY 40'HQ:1089pcs/1426pcs/1176pcs/1070pcs"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo · 4L:US$15.6 / 6L:US$18.4 / 8L:US$20.3 / 10L:US$24.2"
           }
         ]
       }
@@ -5001,7 +4572,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ht-8001sw.webp",
     "description": "Air Fryer model HT-8001SW for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "1000 pcs",
-    "price": "FOB Ningbo USD 23.2",
     "highlights": [
       "Capacity: 8L",
       "Working time: 0-60mins",
@@ -5018,10 +4588,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
         "value": "* GB Size:42x36.5x39.5cm\n* Qty/Ctn: 1pcs/ctn\n* QTY40'HQ:1050pcs"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 23.2"
       }
     ],
     "translations": {
@@ -5036,10 +4602,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* GB Size:42x36.5x39.5cm\n* Qty/Ctn: 1pcs/ctn\n* QTY40'HQ:1050pcs"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 23.2"
           }
         ]
       },
@@ -5054,10 +4616,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* GB Size:42x36.5x39.5cm\n* Qty/Ctn: 1pcs/ctn\n* QTY40'HQ:1050pcs"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 23.2"
           }
         ]
       }
@@ -5070,7 +4628,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ht-8003sw.webp",
     "description": "Air Fryer model HT-8003SW for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "1000 pcs",
-    "price": "FOB Ningbo USD 23.9",
     "highlights": [
       "Capacity:8L",
       "Timer:0-60 mins",
@@ -5087,10 +4644,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
         "value": "* Gift Box Size42x36.5x39.5cm\n* Qty/Ctn: 1pcs/ctn\n* QTY 40'HQ:1050PCS"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 23.9"
       }
     ],
     "translations": {
@@ -5105,10 +4658,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* Gift Box Size42x36.5x39.5cm\n* Qty/Ctn: 1pcs/ctn\n* QTY 40'HQ:1050PCS"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 23.9"
           }
         ]
       },
@@ -5123,10 +4672,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* Gift Box Size42x36.5x39.5cm\n* Qty/Ctn: 1pcs/ctn\n* QTY 40'HQ:1050PCS"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 23.9"
           }
         ]
       }
@@ -5139,7 +4684,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ht-8009sw.webp",
     "description": "Air Fryer model HT-8009SW for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "1000 pcs",
-    "price": "FOB Ningbo USD 23.9",
     "highlights": [
       "Capacity:8L",
       "Timer:0-60 mins",
@@ -5156,10 +4700,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
         "value": "* Gift Box Size45.1x36.1x36.4cm\n* Qty/Ctn: 1pcs/ctn\n* QTY 20'/40'HQ:1050PCS"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 23.9"
       }
     ],
     "translations": {
@@ -5174,10 +4714,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* Gift Box Size45.1x36.1x36.4cm\n* Qty/Ctn: 1pcs/ctn\n* QTY 20'/40'HQ:1050PCS"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 23.9"
           }
         ]
       },
@@ -5192,10 +4728,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* Gift Box Size45.1x36.1x36.4cm\n* Qty/Ctn: 1pcs/ctn\n* QTY 20'/40'HQ:1050PCS"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 23.9"
           }
         ]
       }
@@ -5208,7 +4740,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ht-8005w.webp",
     "description": "Air Fryer model HT-8005W for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "1000 pcs",
-    "price": "FOB Ningbo USD 26",
     "highlights": [
       "Capacity:8.5L",
       "Metal inner cavity",
@@ -5225,10 +4756,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
         "value": "* GB Size:42x36.5x39.5cm\n*Qty/Ctn: 1pcs/ctn\n* QTY40'HQ: 1050pcs"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 26"
       }
     ],
     "translations": {
@@ -5243,10 +4770,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* GB Size:42x36.5x39.5cm\n*Qty/Ctn: 1pcs/ctn\n* QTY40'HQ: 1050pcs"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 26"
           }
         ]
       },
@@ -5261,10 +4784,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* GB Size:42x36.5x39.5cm\n*Qty/Ctn: 1pcs/ctn\n* QTY40'HQ: 1050pcs"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 26"
           }
         ]
       }
@@ -5277,7 +4796,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ht-8010sw.webp",
     "description": "Air Fryer model HT-8010SW for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "1000 pcs",
-    "price": "FOB Ningbo USD 21.6",
     "highlights": [
       "Capacity: 8L",
       "Working time: 0-60mins",
@@ -5294,10 +4812,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
         "value": "* GB Size:42x36.5x39.5cm\n* Qty/Ctn: 1pcs/ctn\n* QTY40'HQ:1050pcs"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 21.6"
       }
     ],
     "translations": {
@@ -5312,10 +4826,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* GB Size:42x36.5x39.5cm\n* Qty/Ctn: 1pcs/ctn\n* QTY40'HQ:1050pcs"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 21.6"
           }
         ]
       },
@@ -5330,10 +4840,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* GB Size:42x36.5x39.5cm\n* Qty/Ctn: 1pcs/ctn\n* QTY40'HQ:1050pcs"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 21.6"
           }
         ]
       }
@@ -5346,7 +4852,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ht-8012dw.webp",
     "description": "Air Fryer model HT-8012DW for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "1000 pcs",
-    "price": "FOB Ningbo USD 22.2",
     "highlights": [
       "Capacity:8L",
       "Timer:0-60 mins",
@@ -5363,10 +4868,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
         "value": "* Product Size:41×30×34.8cm\n* Outer box Size:68×45×40.2cm\n* Qty/Ctn: 2pcs/ctn\n* QTY40'HQ:1070PCS\n* N.W.:5.2KG (per unit)\n* G.W.:15.0KG(whole carton)"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 22.2"
       }
     ],
     "translations": {
@@ -5381,10 +4882,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* Product Size:41×30×34.8cm\n* Outer box Size:68×45×40.2cm\n* Qty/Ctn: 2pcs/ctn\n* QTY40'HQ:1070PCS\n* N.W.:5.2KG (per unit)\n* G.W.:15.0KG(whole carton)"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 22.2"
           }
         ]
       },
@@ -5399,10 +4896,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* Product Size:41×30×34.8cm\n* Outer box Size:68×45×40.2cm\n* Qty/Ctn: 2pcs/ctn\n* QTY40'HQ:1070PCS\n* N.W.:5.2KG (per unit)\n* G.W.:15.0KG(whole carton)"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 22.2"
           }
         ]
       }
@@ -5415,7 +4908,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ht-1002sw.webp",
     "description": "Air Fryer model HT-1002SW for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "1000 pcs",
-    "price": "FOB Ningbo USD 28.6",
     "highlights": [
       "Capacity:10L",
       "Working time: 0-60mins",
@@ -5432,10 +4924,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
         "value": "* GB Size:44.3x38.3x37.5cm\n*Qty/Ctn: 1pcs/ctn\n* QTY40'HQ: 960pcs"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 28.6"
       }
     ],
     "translations": {
@@ -5450,10 +4938,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* GB Size:44.3x38.3x37.5cm\n*Qty/Ctn: 1pcs/ctn\n* QTY40'HQ: 960pcs"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 28.6"
           }
         ]
       },
@@ -5468,10 +4952,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Approvals\nCE\nCB\nROHS\nLFGB\nETL",
             "value": "* GB Size:44.3x38.3x37.5cm\n*Qty/Ctn: 1pcs/ctn\n* QTY40'HQ: 960pcs"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 28.6"
           }
         ]
       }
@@ -5484,7 +4964,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-ycm52105a.webp",
     "description": "Drip Coffee Machine model YCM52105A for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 7.95",
     "highlights": [
       "With removable funnel",
       "With permanent nylon filter",
@@ -5517,10 +4996,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CB/CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 7.95"
       }
     ],
     "translations": {
@@ -5551,10 +5026,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 7.95"
           }
         ]
       },
@@ -5585,10 +5056,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 7.95"
           }
         ]
       }
@@ -5601,7 +5068,6 @@ export const kitchenMiddleEastProducts: Product[] = [
     "image": "/kitchen-middle-east/middle-east-hb258-3.webp",
     "description": "Hand Blender model HB258 for importers, distributors and private-label kitchen-appliance programmes. FOB Ningbo quotation with OEM logo and export-packing support.",
     "moq": "2000 pcs",
-    "price": "FOB Ningbo USD 6.95",
     "highlights": [
       "Streamline design",
       "Electroplating knobs",
@@ -5646,10 +5112,6 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "Certification",
         "value": "CB/CE/ROHS/LFGB"
-      },
-      {
-        "label": "FOB price basis",
-        "value": "FOB Ningbo USD 6.95"
       }
     ],
     "translations": {
@@ -5692,10 +5154,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "Certificaciones",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "Base del precio FOB",
-            "value": "FOB Ningbo USD 6.95"
           }
         ]
       },
@@ -5738,10 +5196,6 @@ export const kitchenMiddleEastProducts: Product[] = [
           {
             "label": "الشهادات",
             "value": "CB/CE/ROHS/LFGB"
-          },
-          {
-            "label": "أساس سعر FOB",
-            "value": "FOB Ningbo USD 6.95"
           }
         ]
       }
