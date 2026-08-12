@@ -552,6 +552,16 @@ export const kitchenMiddleEastProducts: Product[] = [
         "value": "FOB Ningbo USD 6.5"
       }
     ],
+    "gallery": [
+      {
+        "src": "/kitchen-middle-east/middle-east-hb1636.webp",
+        "alt": "Retro Hand Blender HB1636 main product view"
+      },
+      {
+        "src": "/kitchen-middle-east/middle-east-hb1636-detail-2.webp",
+        "alt": "Retro Hand Blender HB1636 product detail 2"
+      }
+    ],
     "translations": {
       "es": {
         "name": "Batidora de mano estilo retro HB1636",
@@ -3120,6 +3130,20 @@ export const kitchenMiddleEastProducts: Product[] = [
       {
         "label": "FOB price basis",
         "value": "FOB Ningbo USD 10"
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/kitchen-middle-east/middle-east-hb258-2.webp",
+        "alt": "Hand Blender 4-in-1 HB258 main product view"
+      },
+      {
+        "src": "/kitchen-middle-east/middle-east-hb258-2-detail-2.webp",
+        "alt": "Hand Blender 4-in-1 HB258 product detail 2"
+      },
+      {
+        "src": "/kitchen-middle-east/middle-east-hb258-2-detail-3.webp",
+        "alt": "Hand Blender 4-in-1 HB258 product detail 3"
       }
     ],
     "translations": {
